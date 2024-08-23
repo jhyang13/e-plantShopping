@@ -2,7 +2,7 @@
 
 ## Final Project: Paradise Nursery Shopping Application
 
-**The URL for the website:** https://jhyangweiss-4173.theianext-0-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/
+**The URL for the website:** https://jhyang13.github.io/e-plantShopping/
 
 ![image](https://github.com/user-attachments/assets/f11e5846-4c8b-4ac4-8264-8669e1a0ed95)
 
