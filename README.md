@@ -28,6 +28,8 @@ This course will help you succeed as a front-end, mobile or full-stack developer
 
 ## Final Project: Paradise Nursery Shopping Application
 
+You will create a React shopping cart app for your final project in the final module. You receive a grade on the project through a peer evaluation. You will also evaluate one of your peer’s projects using a rubric with objective grading criteria. You will apply and integrate many skills learned in the instructional modules, including creating functional components and updating those components using states and hooks. You will use Redux to manage states within your application using actions, reducers, and the store. The project architecture allows you to compose components using a nesting structure. You will also manage side effects with useEffect hooks. You will handle user events to render fetched data from an array and trigger corresponding actions. This module has a practice project that will assist you with developing the required components and functionality in the final project.
+
 **The URL for the website:** https://jhyang13.github.io/e-plantShopping/
 
 ![image](https://github.com/user-attachments/assets/f11e5846-4c8b-4ac4-8264-8669e1a0ed95)
